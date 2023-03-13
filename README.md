@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tarun!!
-- 👀 I’m interested in Data Science, Machine Learning and Financial Operations
-- 🌱 I’m currently learning Python Programming for Data Analysis
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML/CSS, Javascript, Jquery, React and PHP
+- 💞️ I’m looking to advance my skills in Full Stack Development
 - 📫 How to reach me- nair.tarun2008@gmail.com
 
 <!---
